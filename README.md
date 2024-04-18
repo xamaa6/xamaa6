@@ -9,7 +9,7 @@
 
 - Ask me about **Computer Networks, VAPT, Digital Forensics**
 
-- [Osama Nusair - Resume](https://github.com/xamaa6/xamaa6/blob/325bb4e50fe376ada0caa82ef07f293364443488/Osama%20Nusair%20-%20Resume.pdf)
+- [Osama Nusair - Resume](https://github.com/xamaa6/xamaa6/blob/325bb4e50fe376ada0caa82ef07f293364443488/Osama%20Nusair%20-%20Resume.pdf](https://github.com/xamaa6/xamaa6/blob/main/Osama%20Nusair%20-%20Resume.pdf))
 
 - How to reach me **xamaa6@gmail.com**
 
